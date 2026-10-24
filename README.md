@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/d9ea5889-0c17-44b6-b945-05e8f0262398
+
 # Safety-Constrained Distributed Control Inference for Multi-ASV Collision Avoidance
 
 This repository hosts the high-fidelity **VRX (Virtual RobotX) / Gazebo** physical validation results, numerical simulation benchmarks, and supplementary materials for the manuscript **"Safety-Constrained Distributed Control Inference for Multi-ASV Collision Avoidance"**.
@@ -15,6 +19,10 @@ We validate the proposed **Safety-Constrained Distributed Factor Graph Inference
 Real-time multi-ASV antipodal swap and static obstacle avoidance in the **VRX Sydney Regatta** environment ($t \in [0, 69.74]\text{ s}$), subject to 3D wave/hydrodynamic disturbances, full twin-hull WAM-V geometries, and differential thruster dynamics:
 
 <!-- 👇 请在网页编辑模式下，直接用鼠标把你的 Gazebo验证.mp4 拖拽到下面这行空白处 👇 -->
+
+----
+
+https://github.com/user-attachments/assets/b1516f6d-5acd-4d10-a582-39360ce340f2
 
 
 
