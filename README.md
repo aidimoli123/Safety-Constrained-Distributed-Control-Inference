@@ -22,8 +22,7 @@ Real-time multi-ASV antipodal swap and static obstacle avoidance in the **VRX Sy
 4 underactuated ASVs performing an antipodal swap in a workspace obstructed by static circular obstacles under exact 3-DOF nonlinear Fossen hydrodynamics:
 
 <!-- 👇 请直接用鼠标把你的 纯数值仿真.mp4 (或 .gif) 拖拽到下面这行空白处 👇 -->
-
-
+<img width="1485" height="748" alt="ICARA2027_ASV_Animation" src="https://github.com/user-attachments/assets/050f275e-7660-4dc7-b6a8-2d64e9d04aac" />
 
 ---
 
