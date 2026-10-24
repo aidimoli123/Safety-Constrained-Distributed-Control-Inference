@@ -1,3 +1,6 @@
+
+
+<img width="1485" height="748" alt="ICARA2027_ASV_Animation" src="https://github.com/user-attachments/assets/75434429-e0d6-495a-9b9c-fb4c4f833b86" />
 # Safety-Constrained Distributed Control Inference for Multi-ASV Collision Avoidance
 
 This repository hosts the numerical simulation results, high-fidelity Gazebo physical validation videos, and supplementary materials for the manuscript **"Safety-Constrained Distributed Control Inference for Multi-ASV Collision Avoidance"**.
